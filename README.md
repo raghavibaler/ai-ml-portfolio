@@ -20,6 +20,4 @@
 - YOLO-Based Pothole Detection
 - Intelligent Workforce Allocation System
 
-### 📫 Connect With Me
-- LinkedIn: [Add your LinkedIn URL]
-- GitHub: [Add your GitHub profile URL]
+
